@@ -49,6 +49,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-docker-eks</finalName>
+		<finalName>springboot-eks</finalName>
 	</build>
 </project>
