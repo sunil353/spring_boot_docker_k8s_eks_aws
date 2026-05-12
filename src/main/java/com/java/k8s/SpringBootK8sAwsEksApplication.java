@@ -11,7 +11,7 @@ public class SpringBootK8sAwsEksApplication {
 
 	@GetMapping("/welcome")
 	public String greetings() {
-		return "Hello Mr Meher , Welcome to spring project and deploy to EKS in AWS ..... !";
+		return "Hello Mr/Mrs Meher, Welcome to spring project and deploy to EKS in AWS ..... !";
 	}
 	
 	public static void main(String[] args) {
